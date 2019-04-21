@@ -1,0 +1,1 @@
+{"version":3,"sources":["models/Editor.js"],"names":["define","Model","etch","models","Editor"],"mappings":";;;;;;;AAAAA,QACC,yBACA,WACC,SAASC,EAAMC,GACd,OAAOA,EAAKC,OAAOC,OAASH","file":"../../models/Editor.js","sourcesContent":["define([\r\n\t\"skylark-backbone/Model\",\r\n\t\"../etch\"\r\n],function(Model,etch){\r\n  \treturn etch.models.Editor = Model;\r\n});\r\n"]}
